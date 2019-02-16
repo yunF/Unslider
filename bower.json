@@ -1,0 +1,24 @@
+{
+  "name": "Unslider",
+  "version": "2.0.3",
+  "authors": [
+    "Visual Idiot <iam@visualidiot.com>"
+  ],
+  "description": "The simplest little slider.",
+  "main": "src/js/unslider.js",
+  "keywords": [
+    "slider",
+    "jquery",
+    "unslider",
+    "carousel"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/yunF/Unslider",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
